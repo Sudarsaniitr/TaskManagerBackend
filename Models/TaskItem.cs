@@ -1,8 +1,18 @@
+// namespace TaskManagerAPI.Models
+// {
+//     public class TaskItem
+//     {
+//         public int Id { get; set; }
+//         public string Description { get; set; } = string.Empty;
+//         public bool IsCompleted { get; set; }
+//     }
+// }
+
 namespace TaskManagerAPI.Models
 {
     public class TaskItem
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Description { get; set; } = string.Empty;
         public bool IsCompleted { get; set; }
     }

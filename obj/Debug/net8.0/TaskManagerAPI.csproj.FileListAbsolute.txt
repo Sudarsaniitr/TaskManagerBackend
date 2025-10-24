@@ -64,3 +64,4 @@ C:\Users\vesud\Downloads\project\backend\obj\Debug\net8.0\refint\TaskManagerAPI.
 C:\Users\vesud\Downloads\project\backend\obj\Debug\net8.0\TaskManagerAPI.pdb
 C:\Users\vesud\Downloads\project\backend\obj\Debug\net8.0\TaskManagerAPI.genruntimeconfig.cache
 C:\Users\vesud\Downloads\project\backend\obj\Debug\net8.0\ref\TaskManagerAPI.dll
+C:\Users\vesud\Downloads\project\backend\obj\Debug\net8.0\TaskManagerAPI.sourcelink.json
