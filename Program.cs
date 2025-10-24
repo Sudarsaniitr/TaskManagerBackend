@@ -41,7 +41,9 @@ builder.Services.AddCors(options =>
         policy
             .WithOrigins(
                 "http://localhost:3000",
-                "https://taskmanagerfrontend.vercel.app"
+                "https://taskmanagerfrontend.vercel.app",
+                "https://task-manager-frontend-iota-liart.vercel.app",
+                "http://taskmanagerfrontend-beta.vercel.app"
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
